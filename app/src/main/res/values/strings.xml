@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoffeeOrderingApp</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="name">Name</string>
+    <string name="minus">-</string>
+    <string name="number">0</string>
+    <string name="plus">+</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="_0">0$</string>
+    <string name="order">ORDER</string>
+    <string name="warning">you cannot go below 1</string>
+    <string name="warning2">you cannot go above 10</string>
+</resources>
